@@ -46,6 +46,3 @@ resnet_new.h5: Contains the pre-trained weights for the ResNet model
 
 class_dicts: Contains the dictionary of class labels for the model
 
-## Author:
-
-Arnav Andraskar
