@@ -10,6 +10,7 @@ Posting pictures is a necessary part of advertising a home for sale. Agents typi
 
 ## Dataset:
 The dataset contains 5859 images distributed across 6 classes: Bathroom, Bedroom, Living Room, Kitchen, Front Yard, and Backyard. The number of images varies across classes, but each class contains at least 700 images. Images are in .jpg, .jpeg and .PNG format.
+
 source: https://drive.google.com/u/0/uc?id=0B761qYXle4lYZHlMQ01rTEtva3M&export=download
 
 ## Requirements:
